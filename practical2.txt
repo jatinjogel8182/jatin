@@ -1,0 +1,42 @@
+<html>
+<body>
+<h1>header size 1</h1>
+<br><br><br>
+<h3>header size 3</h3>
+<br><br><br>
+<p>the next lime of example text should be in the middle of the document</P>
+<p align="center"><b>bold text</b>,<i>italic text</i>,<u>and underlined text</u>
+<P><font size=5>Font size=5</font><br><br>
+<font face="arial">Font face=arial</font>
+<br><br>
+<font color="red">Font colour=red</font>
+<br><br><br>
+<P>normal text,<sub>subscript text</sub>,more normal text,<sup>super text </sup>
+<br><br><br>
+<em>text in emphasis</em>
+<br>
+<b>text in strong</b><br>
+<cite>text in citation</cite>
+<br>
+
+
+
+<pre>
+this is preformated text(using the pre)teg
+        as it appears in the editor
+     view the source code and you will
+                 notice that there are no tags util here
+          it is displayed the exact way thet its been
+   set out in the editor. it required the font can be changed 
+       like this using
+    the FONT FACE = tag.
+</pre>
+<br><br><br>
+<pre>
+       this text fails within the blockout tag 
+</pre>
+<br><br><br>
+<font face="typewriter">this text should apper as if it has been typed by a typewriter</font>
+<h6>the fine print(small text)</h6>
+</body>
+</html>
