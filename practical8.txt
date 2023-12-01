@@ -1,0 +1,138 @@
+                           PRACTICAL 8.1
+
+
+
+
+
+<html>
+    <body>
+<h1>DOM Legend Form Property</h1>
+<fieldset><legend>STUDENT</legend>
+
+<table>
+    <form>
+    
+<tr>
+    <td>Name:</td>
+    <td><input type="text"></td>
+</tr>
+<tr>
+    <td>Email:</td>
+    <td><input type="text"></td>
+</tr>
+<tr>
+    <td>Date of birth:</td>
+    <td><input type="text"></td>
+</tr>
+<tr>
+    <td>Address:</td>
+    <td><input type="text"></td>
+</tr>
+<tr>
+    <td>Enroll No:</td>
+    <td><input type="text"></td>
+</tr>
+    </form>
+</table>
+</fieldset>
+<table align="center">
+  <tr>
+    <td>  
+<input type="submit"></td>
+</tr>
+</table>
+    </body>
+</html>
+
+
+
+                             PRACTICAL 8.2
+
+
+
+
+<html>
+    <form>
+        ENTER NAME OF YOUR FRIEND 
+        <input type="text" name="text" mexlength="8">
+        <br>
+        <br>
+        
+        CHOOS THE FILE YOU WANT TO POST TO YOUR FRIEND<br>
+        <br>
+        
+       <input type="text" name="text">
+       <input type="file">
+       <br>
+       <br>
+       
+       WHAT DOES THE FILE CONTAIN?<br>
+       <br>
+       
+       <input type="checkbox" value="checkbox"> image
+       <input type="checkbox" value="checkbox"> source code
+       <input type="checkbox" value="checkbox"> binary code
+       <br>
+       <br>
+       
+       YOU HAVE COMPLETED THE FORM.<br><br>
+       <input type="submit" value="submit queary">
+    </form>
+</html>
+
+
+
+
+                              PRACTICAL 8.3
+
+
+<html>
+    <form>
+        FIRST NAME:
+        <input type="text" value=" ENTER YOUR FIRST NAME"><br><br>
+        LAST NAME:
+        <input type="text"value=" ENTER YOUR LAST NAME" ><br><br>
+        EMAIL:
+        <input type="text" value=" ENTER YOUR EMAIL" ><br><br>
+        MOBILE:
+        <input type="text" maxlength="10" value=" ENTER YOUR MOBILE NUMBER"><br><br>
+        GENDER:
+        <input type="radio" name="male">male
+        <input type="radio" name="female">female
+        <br><br>
+        DATE OF BIRTH:
+        <input type="date"><br><br>ADDRESS:
+        <textarea rows="7" cols="40"></textarea>
+        <br><br>
+        CITY:
+        <input type="text" value=" ENTER YOUR CITY NAME"><br><br>
+        AREA PIN:
+        <input type="text" maxlength="15" value=" ENTER YOUR AREA PIN">
+        <br><br>
+        STATE:
+        <input type="text" value=" ENTER YOUR STATE NAME"><br><br>
+        QUALIFICATION:
+        <select>
+            <option value="select qualification">select qualification</option>
+            <option value="select qualification">select marksheet</option>
+<option value="select qualification">10th pass</option>
+            <option value="select qualification">12th pass</option>
+            <option value="select qualification">graduate</option>
+            
+        </select><br><br><br>
+        SPECIALIZATION:
+        <input type="checkbox">COMPUTER SCIENCE <br>
+        <input type="checkbox">INFORMATION TECHNOLOGY<br>
+        <input type="checkbox">COMPUTER ARCHITECTURE<br>
+        <input type="checkbox">TELE COMMUNICATION<br><br><br>
+        PASSWORD:
+        <input type="password" name="password">
+        <br><br>
+        <input type="submit" value="REGISTERED">
+
+  
+    
+  
+       
+    </form>
+</html>
