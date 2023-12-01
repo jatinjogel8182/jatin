@@ -1,0 +1,61 @@
+                        PRACTICAL 3.1
+
+
+
+<html>
+<body>
+<a href="https://earth.google.com/web/@52.90855752,1.78731826,-40035.34168172a,63210037.78607368d,30y,266.56612531h,0t,0r/data=OgMKATA">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" align="left" width="50" height="48"
+/>
+</a>
+a paragraph with an image. the align attribute of the image is set to "left".the image will float to the left of this text.
+<p/>
+
+<P>
+<a href = "https://earth.google.com/web/@52.90855752,1.78731826,-40035.34168172a,63210037.78607368d,30y,266.56612531h,0t,0r/data=OgMKATA">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" align="right" width="50" height="50" />
+ </a>
+ a paragraph with an image. the align attribute of the image is set to "right".the image will float to the left of this text.
+
+</P>
+</body>
+
+</html>
+
+
+                         PRACTICAL 3.2
+
+
+
+
+<html>
+<body>
+in the middle
+<a href="https://earth.google.com/web/@52.90855752,1.78731826,-40035.34168172a,63210037.78607368d,30y,266.56612531h,0t,0r/data=OgMKATA">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" align="middle" width="50" height="70"
+/>
+</a>
+a paragraph with an image. the align attribute of the image is set to "left".the image will float to the left of this text.
+<p/>
+
+<P>
+in the top
+<a href = "https://earth.google.com/web/@52.90855752,1.78731826,-40035.34168172a,63210037.78607368d,30y,266.56612531h,0t,0r/data=OgMKATA">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" align="top" width="50" height="70" />
+ </a>
+ a paragraph with an image. the align attribute of the image is set to "right".the image will float to the left of this text.
+
+</P>
+<p/>
+
+<P>
+in the top
+<a href = "https://earth.google.com/web/@52.90855752,1.78731826,-40035.34168172a,63210037.78607368d,30y,266.56612531h,0t,0r/data=OgMKATA">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" align="bottom" width="50" height="70" />
+ </a>
+ a paragraph with an image. the align attribute of the image is set to "right".the image will float to the left of this text.
+
+</P>
+</body>
+
+</html>
