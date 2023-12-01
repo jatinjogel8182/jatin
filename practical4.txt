@@ -1,0 +1,38 @@
+<html>
+    <body>
+        <p>
+            you can reach to professor at:
+        </p>
+        <ul type="circle">
+            <li><a href="https://uvpce.guni.ac.in/people/faculty-departments/information-technology/faculty">website</a></li>
+            <li><a href="mail to: ketan.sarvakar@ganpatuniversity.ac.in">email to professor ketan sarvakar</a></li>
+             <li><a href="tel:148648418687687">phone</a></li>
+        </ul>
+        <a href=" javascript:alert('hello;')">click here to open alert box javascript</a>
+        <ol type="1">
+            <li><a href="https://uvpce.guni.ac.in/people/faculty-departments/information-technology/faculty">website</a></li>
+            <li><a href="mail to: ketan.sarvakar@ganpatuniversity.ac.in">email to professor ketan sarvakar</a></li>
+             <li><a href="tel:148648418687687">phone</a></li>
+
+       </ol>
+       
+       <pre>
+        value          description         
+        _blank          open the limked document in the new window or tab
+        _self           open the limked document in the same frame as it was clicked 
+        _top            open the limked document in the  full body of the window
+        _parent         open the limked document in the parant frame
+         framename      open the limked document in the named i frame
+
+       </Pre>
+       <a href ="https://uvpce.guni.ac.in/about/about-ce" target="_blank">ACADMIC-CALANDER-OPEN IN A NEW WINDOW</a><BR>
+       <a href="https://uvpce.guni.ac.in/campus-lifes/campus-life"   target="_self">CAMPUSLIFE-OPEN IN SAME FRAME</a>  
+        
+       <P><a href="https://www.ganpatuniversity.ac.in/campus-lifes/transportation">
+        Transportation-https://www.ganpatuniversity.ac.in/campus-lifes/transportation
+        </a>
+       </P>
+<iframe src="https://www.ganpatuniversity.ac.in/"></iframe>
+<iframe src="https://uvpce.guni.ac.in/people/faculty-departments/computer-engineering/faculty"></iframe><iframe src="https://uvpce.guni.ac.in/events"></iframe><iframe src="https://uvpce.guni.ac.in/contact-us"></iframe>
+    </body>
+</html>
