@@ -1,0 +1,62 @@
+<html>
+    <table border="1">
+        <tr >
+            <td colspan="5" align="center">Download 1-semester syllabus</td>
+
+        </tr>
+        <tr>
+            <td bgcolor="#13c7eb">sno.</td>
+            <td bgcolor="#13c7eb">subject name</td>
+            <td bgcolor="#13c7eb">subject code</td>
+            <td bgcolor="#13c7eb">download syllabus</td>
+            <td rowspan="7" bgcolor="#13c7eb">syllabus is aloso available on the GUNI website</td> 
+            
+        </tr>
+        <tr>
+            
+            <td align="center" bgcolor="#eb137b">1</td>
+            <td align="center"  bgcolor="#eb137b">MATH</td>
+            <td align="center"  bgcolor="#eb137b">2BS1101</td>
+            <td align="center"  bgcolor="#eb137b"><a href="https://d2z4x7fn3a0wyp.cloudfront.net/subject/mathematics-i/2bs1101-mathematics-i.pdf"><font color="green">maths syllabus</font></a></td>
+            
+                
+            
+        </tr>
+        <tr>
+            <td align="center" bgcolor="#34eb56">2</td>
+            <td align="center" bgcolor="#34eb56">EG</td>
+            <td align="center" bgcolor="#34eb56">2ES1101</td>
+            <td align="center" bgcolor="#34eb56"><a href="https://d2z4x7fn3a0wyp.cloudfront.net/subject/engineering-graphics/2es1101-engineering-grahpics-syllabus-semester-i.pdf"><font color="green">EG syllabus</font></a></td>
+            
+        </tr>
+        <tr>
+            <td align="center" bgcolor="#3499eb">3</td>
+            <td align="center" bgcolor="#3499eb">BEE</td>
+            <td align="center" bgcolor="#3499eb">2ES1103</td>
+            <td align="center" bgcolor="#3499eb"><a href="https://d2z4x7fn3a0wyp.cloudfront.net/subject/basic-electrical-engineering/2es1103-basic-electrical-engineering.pdf"><font color="green">bee syllabus</font></a></td>
+            
+            
+        </tr>
+        <tr>
+            <td align="center" bgcolor="#e2eb34">4</td>
+            <td align="center" bgcolor="#e2eb34">BWT</td>
+            <td align="center" bgcolor="#e2eb34">2ES1109</td>
+            <td align="center" bgcolor="#e2eb34"><a href="https://d2z4x7fn3a0wyp.cloudfront.net/subject/basics-of-web-technology/2es1109-basics-of-web-technology.pdf"><font color="green">bwt syllabus</font></a></td>
+        </tr>
+
+        <tr>
+            <td align="center" bgcolor="#8a8181">5</td>
+            <td align="center" bgcolor="#8a8181">ITPT</td>
+            <td align="center" bgcolor="#8a8181">2es1110</td>
+            <td align="center" bgcolor="#8a8181"><a href="https://d2z4x7fn3a0wyp.cloudfront.net/subject/it-peripherals-tools/2es1110-it-peripherals-and-tools.pdf"><font color="green">ITPT syllabus</font></a></td>
+            
+        </tr>
+        <tr>
+            <td align="center" bgcolor="#42bcf5">6</td>
+            <td align="center" bgcolor="#42bcf5">AI&ML</td>
+            <td align="center" bgcolor="#42bcf5">2ES1113</td>
+            <td align="center" bgcolor="#42bcf5"><a href="https://d2z4x7fn3a0wyp.cloudfront.net/subject/seminar/2hs1102-seminar.pdf"><font color="green">AI&ML syllabus</font></a></td>
+            
+        </tr>
+    </table>
+</html>
