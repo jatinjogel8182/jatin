@@ -1,0 +1,312 @@
+                                PRACTICAL 10.1
+
+<html>
+    <head>
+        <style>
+            h1{
+                text-decoration-line :overline ;
+                text-decoration-color:red ;
+            }
+            h2{
+                text-decoration-line :line-through ;
+                text-decoration-color:blue ;
+            }
+            h3{
+                text-decoration-line :underline ;
+                text-decoration-color:green ;
+            }
+            h4{
+                text-decoration-line :overline underline ;
+                text-decoration-color:purple ;
+            }
+      </style>
+    </head>
+    <body>
+        <h1>
+            my name is jatin.
+        </h1>
+
+        <h2>
+            my name is jatin.
+        </h2>
+
+        <h3>
+            my name is jatin.
+        </h3>
+
+        <h4>
+            my name is jatin.
+        </h4>        
+
+
+    </body>
+
+</html>
+ 
+
+                              PRACTICAL 10.2
+
+<html>
+    <head>
+        <style>
+            h2.h2{
+                text-align: center;
+                color: red ;
+            }
+            h3{
+                text-align: center;
+                color: green ;
+            }
+            p{
+                text-align: center;
+                text-decoration: underline double;
+            }
+            p.linethrough{
+                text-align: center;
+                text-decoration: line-through dotted
+            }
+            p.owerline{
+                text-align: center;
+                text-decoration: overline dotted;
+            }
+            p.multiple{
+                text-align: center;
+                text-decoration:wavy underline overline line-through;
+            text-decoration-color:pink ;
+            color: blue;
+
+            }
+            
+            
+            
+
+        </style>
+    </head>
+    <body>
+        <h2 class="h2" >
+            Welcom to this page
+        </h2>
+        <h3 >
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi adipisci sequi aliquam consequatur, earum molestiae, ab cupiditate labore odio error laborum obcaecati dicta accusantium? Voluptatum ipsum eaque illo consequatur alias!
+        </h3>
+        <p>
+            Welcom to this page
+        </p>
+        <p class="linethrough">
+            Welcom to this page
+        </p1><br>
+
+        <p class="owerline">
+            Welcom to this page
+        </p2>
+        <P class="multiple">
+            Welcom to this page
+        </P>
+        
+    </body>
+</html>
+
+
+
+                                      PRACTICAL 10.3
+
+<html>
+    <head>
+        <style>
+            ol li {
+background: #ffe5e5;
+color: darkred;
+padding: 5px;
+margin-left: 35px;
+}
+ul li {
+background: #cce5ff;
+color: darkblue;
+margin: 5px;
+}
+ol {
+background: #ff9999;
+padding: 20px;
+}
+ul {
+background: #3399ff;
+padding: 20px;
+}
+        </style>
+    </head>
+    <body>
+        <ol>
+            <li>jatin</li>
+            <li>jogel</li>
+            <li>jatin</li>
+            <li>jogel</li>
+            <li>jatin</li>
+        </ol>
+        <ul>
+            <li>JAY DWARIKADHIS</li>
+            <li>RADHE RADHE </li>
+            <li>JAY DWARIKADHIS</li>
+            <li>RADHE RADHE</li>
+            <li>JAY DWARIKADHIS</li>
+        </ul>
+    </body>
+</html>
+
+
+
+
+
+                                      PRACTICAL 10.4
+
+<html>
+    <head>
+        <style>
+            h1{ 
+                color:white;
+                 text-shadow:2px 4px 4px
+                  #000000; }
+             h2{ 
+                color:red;
+                 text-shadow:1px 2px; } 
+             h3{ 
+                color:green;
+                 text-shadow:3px 3px 5px
+                 #000000; } 
+             h4{
+                 text-shadow:0 0 3px red,
+                 0 0 5px rgb(2, 48, 253); }
+              h5{ 
+                color:rgb(255, 255, 255);
+                 text-shadow:2px 2px 2px black,
+                 0 0 25px blue,
+                 0 0 5px darkblue; }
+        </style>
+    </head>
+    <body>
+        <h1>
+            RADHE RADHE
+        </h1>
+        <h2>
+            RADHE RADHE
+        </h2>
+        <h3>
+            RADHE RADHE
+        </h3>
+        <h4>
+            RADHE RADHE
+        </h4>
+        <h5>
+            RADHE RADHE
+        </h5>
+    </body>
+</html>
+
+
+
+                                   PRACTICAL 10.5
+
+<html>
+    <head>
+        <style>
+            ul {
+                                list-style-image: url('https://c.disquscdn.com/uploads/users/24319/3799/avatar92.jpg?1512852262');
+                                background-color:blue;
+                                list-style-position: inside;
+                        }
+            ul li {
+                                background-color:orange;
+                                font-size:24px; 
+                        }
+             ol li {
+                                background-color:orange;
+                                font-size:24px;
+                        }
+
+        </style>
+    </head>
+    <ul>
+        <li>html</li>
+        <li>html</li>
+        <li>html</li>
+        <li>html</li>
+        <li>html</li>
+    </ul>
+    <ol>
+        <li>html</li>
+        <li>html</li>
+        <li>html</li>
+        <li>html</li>
+        <li>html</li>
+    </ol>
+</html>
+
+
+
+
+                                  PRACTICAL 10.6
+
+<HTML>
+    <HEAD>
+
+        <STYLE>
+
+       
+
+
+         .capital{text-transform: capitalize;}
+
+         #a{letter-spacing:10;}
+
+         #b{word-spacing:30;}
+
+         #c1{line-height:1.5;}
+         #c2{line-height:150%;}
+         #c3{line-height:1.5em;}
+
+         #d{text-indent:50px;}
+
+         #e{text-indent:10%;}
+
+       
+         
+        </STYLE>
+
+    </HEAD>
+
+    <BODY>
+
+        <h1 class="capital">spacing and placement</h1>
+
+        <h2 class="capital">letter spacing</h2>
+
+        <P id="a">letter-spacing:lemmel-:gnicaps-rettel</P>
+
+        <h2 class="capital">world spacing</h2>
+
+        <P id="b">world-spacing:lem it's a wide sentence</P>
+
+        <h2 class="capital">line height</h2>
+
+        <P id="c1">line-height:1.5</P>
+        <P id="c1">line-height:1.5</P>
+        <P id="c1">line-height:1.5</P>
+        <P id="c2">line-height:150%</P>
+        <P id="c2">line-height:150%</P>
+        <P id="c2">line-height:150%</P>
+        <P id="c3">line-height:1.5em</P>
+        <P id="c3">line-height:1.5em</P>
+        <P id="c3">line-height:1.5em</P>
+
+        <h2 class="capital">text-indent</h2>
+
+        <P id="d">text-indent:50px-text-indect only appliceis to the first line of texxt </P>
+        <P>the next line will not be indected</P>
+
+        <P id="e">text-indent:10%-text-indect only appliceis to the first line of texxt </P>
+        <P>the next line will not be indected</P>
+       
+       
+     
+    </BODY>
+
+</HTML>
