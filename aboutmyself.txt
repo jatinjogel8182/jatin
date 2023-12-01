@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>about myself</title>
+</head>
+<body>
+<h1> about my self</h1>
+<hr color="blue" width="60%" align=left
+<pre>
+<h2><p align=right>my name is jatin.</p>
+<hr color="red" width="60%" align=right>
+<b>i am form jamnagar.</b>
+<hr color="blue" width="60%" align=left>
+<p align=right>i recantly pass out from 12<sup>th</sup>.</p>
+<hr color="red" width="60%" align=right>
+<b>i got 54% in 12<sup>th</sup></b>
+</h2></pre>
+<hr color="blue" width="60%" align=left>
+<p style="color:red" align=right>
+D.O.B : 12/07/2006
+</p>
+<hr color="red" width="60%" align=right>
+<p style="color:green">
+my hobby : gamming,singing<pre>
+<hr color="blue" width="60%" align=left>
+<b><p align=right>mobile no.8200865586</p>
+<hr color="red" width="60%" align=right>
+
+
+<p style="color:gray">
+<p align=left><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoE2NxhZzX3O7bu3ZwKeuham--IhytIr8ZIQ&usqp=CAU"  alt="nature picture"width="100" hight="100"></p><hr color="blue" width="60%" align=left>
+</body>
+</html>
