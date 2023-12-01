@@ -1,0 +1,101 @@
+                          PRACTICAL 9.1
+
+<html>
+    <head>
+      <style>
+        p.center{
+            color:aqua;
+        }
+        p.center1{
+            text-align:right
+        }
+       
+      </style>  
+    </head>
+    <body>
+        <p class="center" align="center">
+            WELCOME TO MY WEB PAGE!
+
+        </p>
+        <p class="center" align="left">
+            About me
+        </p>
+        
+        
+         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi, cumque accusantium. Quibusdam voluptas tempore magnam ipsum tenetur officia, error ea cumque est repellat libero quos architecto praesentium vel reiciendis ipsam?
+
+       <p class="center" align="right">
+        Subjects,I study in Semester-1
+       </p>
+       <p class="center1" >  BWT</p>
+       <p  class="center1" > ITPT</p>
+       <p class="center1" > MATHS-1</p>
+       <p  class="center1"  > EG</p>
+       <p  class="center1" > Audit course</p>
+       <p  class="center1" >BEE</p>
+    </body>
+</html>
+
+
+
+
+                                    PRACTICAL 9.2
+
+
+
+<html>
+    <head>
+        <style>
+            body { background: #86f1e9 url("https://giffiles.alphacoders.com/214/214778.gif") repeat scroll right top   ; }
+        </style>
+    </head>
+    <body>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui eligendi et maiores omnis quasi reprehenderit saepe numquam quos, doloremque a fugiat quis modi quaerat praesentium, minima ut consequuntur perspiciatis! Temporibus.</p>
+    </body>
+</html>
