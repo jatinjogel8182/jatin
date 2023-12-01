@@ -1,0 +1,81 @@
+<html>
+<body>
+<p><h3>page 1</h3></p>
+
+<ul style=circle>
+<li> HTML </li>
+<li> CSS </li>
+<li> JAVA </li>
+
+<ul style=disc>
+<li>JSP</li>
+<li>SERVENT</li>
+<li>GUI</li>
+
+<ul style=square>
+<li>AWT</li>
+<li>SWING</li>
+</ul></ul>
+
+<li>JAVASCRIPT</li>
+<ul style=disc>
+<li>ANGULER</li>
+<li>REACT</li>
+<li>NODE</li>
+</ul></ul>
+<hr color="red">
+
+<p><h3> page 2 </h3></P>
+
+
+<ol type=1>
+
+<li><b> MATHS</b></li>
+<li> <b>BEE </b></li>
+<li> <b>BWT</b></li>
+
+<ol type=i start=6>
+<li><b> HTML
+</b></li>
+
+
+
+<ol type=a>
+<li> Basic tags</li>
+<li> Formatting tag</li>
+<li> Table</li>
+<li> Image</li>
+<li> Form</li>
+
+ 
+
+<ol type=i start=7>
+<li> CSS</li>
+<li>Javascript</li>
+<li> Bootstrap</li>
+
+</ol></ol></ol>
+
+<li> <b>EG</b> </li>
+<li><b>ITPT </b></li>
+<hr color="blue">
+<p> <h3>page3</h3></p>
+<dl>
+<dt>1994-</dt>
+<dd>H&#195;&#165;kon wium lie proposed the idea of css</dd>
+<dt>1994-</dt>
+<dd>the first version of CSS was invented.</dd>
+</dl>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
